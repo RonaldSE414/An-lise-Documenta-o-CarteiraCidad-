@@ -1,5 +1,5 @@
 #
-# 🚀Cateira Cidadã: Carteira de Docunentos digitais 
+# 🚀Cateira Cidadã: A Organizador de Documentos digitais 
 
 Este repositório contém a documentação completa de Análise e Projeto de Software para o aplicativo Carteira Cidadã, uma solução desenvolvida para centralizar, organizar e proteger documentos digitais no Brasil.  
 
