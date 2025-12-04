@@ -1,16 +1,16 @@
 #
-🚀 Carteira Cidadã: O Futuro da Gestão de Documentos Digitais
+# 🚀Cateira Cidadã: Carteira de Docunentos digitais 
 
 Este repositório contém a documentação completa de Análise e Projeto de Software para o aplicativo Carteira Cidadã, uma solução desenvolvida para centralizar, organizar e proteger documentos digitais no Brasil.  
 
-O projeto visa solucionar a fragmentação atual, onde o cidadão é obrigado a usar múltiplos aplicativos e sistemas para acessar informações essenciais. Essa dispersão causa desorganização, perda de tempo e falta de padronização na segurança. A Carteira Cidadã oferece uma experiência prática, unificada e mais segura.  
-
+O projeto visa solucionar a fragmentação atual, onde o cidadão é obrigado a usar múltiplos aplicativos e sistemas para acessar informações essenciais. Essa dispersão causa desorganização, perda de tempo e falta de padronização na segurança. A Carteira Cidadã oferece uma experiência prática, unificada e mais segura.
+#
 🎯 Objetivo do Sistema
 
 O objetivo principal é reunir todos os documentos do usuário em uma plataforma única, permitindo acesso rápido, organização simples e segurança reforçada.  
 
 O sistema utiliza tecnologias de verificação, autenticação e integridade para garantir confiabilidade e preservar a autenticidade das informações. Ele se integra a bases oficiais do governo para validar e importar dados com segurança.  
-
+#
 ✨ Funcionalidades Chave (Requisitos Funcionais)
 
 As funcionalidades do sistema foram priorizadas em alta para garantir a segurança e a usabilidade essenciais:
@@ -24,7 +24,7 @@ As funcionalidades do sistema foram priorizadas em alta para garantir a seguran�
 • Validação e Integridade: Permite anexar documentos autenticados/registrados via código de verificação. Registra o HASH, titularidade e dados de segurança dos documentos e impede qualquer edição no arquivo original. O sistema valida se o documento pertence ao titular da conta.  
 
 • Busca e Visualização: Permite a busca de documentos pelo nome e a visualização completa dos documentos anexados.  
-
+#
 🛡️ Requisitos Não Funcionais (Segurança e Qualidade)
 
 A qualidade e a segurança do sistema são garantidas pelos seguintes requisitos:
@@ -42,7 +42,7 @@ A qualidade e a segurança do sistema são garantidas pelos seguintes requisitos
 • Alta Disponibilidade e Desempenho: O sistema deve suportar grande volume de usuários simultâneos e carregar documentos e realizar buscas de forma ágil, com um tempo de resposta de 2 a 3 segundos para operações comuns.  
 
 • Compatibilidade: O sistema deve funcionar em dispositivos Android e iOS.  
-
+#
 📐 Arquitetura do Sistema (Diagrama de Implantação)
 A arquitetura do sistema é distribuída e focada em segurança na comunicação:
 
@@ -55,7 +55,7 @@ A arquitetura do sistema é distribuída e focada em segurança na comunicação
 4. Servidor de Armazenamento: Armazena os arquivos de documentos (documents.pdf, images.jpeg) e se comunica via HTTPS.
 
 5. APIs Governamentais Externas: Serviços externos que realizam validação de documentos, código de verificação e o login via gov.br.
-
+#
 📚 Documentação (Diagramas UML e Protótipos)
 
 Este repositório contém os seguintes artefatos de documentação:
@@ -71,7 +71,7 @@ Este repositório contém os seguintes artefatos de documentação:
 • Diagrama de Sequência para o processo de Anexo de Documento, detalhando a interação entre o Usuário, o App, o Servidor e os Sistemas Governamentais Externos.  
 
 • Protótipos de Tela: Inclui o design das telas de Login (PF/PJ), Cadastro (PF), Telas Principais (Home) e as Telas de Operações (Autenticação Facial e Adicionar Documento).  
-
+#
 👥 Desenvolvedores
 
 • Ronald Machado Guimarães
