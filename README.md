@@ -75,7 +75,11 @@ Este repositório contém os seguintes artefatos de documentação:
 👥 Desenvolvedores
 
 • Ronald Machado Guimarães
+
 • Cassio Emanuel Santos
+
 • José Lucas Guimarães
+
 • Bilsa Ferreira
+
 • João Pedro Silva Maciel
